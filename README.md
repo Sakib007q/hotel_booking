@@ -34,11 +34,11 @@ A majority of the guests chose Bed & Breakfast (BB) over Full Board (FB) and Hal
 ## Let's Connect
 If you like this project, feel free to  star the repository and share your thoughts
 
-- [Linkedin](https://www.linkedin.com/in/sakib07q/)
-- [E-mail](ahmedsakib540@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/sakibahmed007q/)
+- [E-mail](ahmedsakib2002@gmail.com)
 
 ### Other Portfolio
 
-- [Website](https://sakibda.wixsite.com/sakib-ahmed)
+- [Website](https://sakib007q.wixsite.com/sakib-ahmed)
 - [Datacamp](https://www.datacamp.com/portfolio/sakib007)
-- [Hacker Rank](https://www.hackerrank.com/profile/ahmedsakib540)
+- [Hacker Rank](https://www.hackerrank.com/profile/sakib007)
